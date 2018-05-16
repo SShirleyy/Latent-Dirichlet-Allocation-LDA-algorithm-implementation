@@ -1,0 +1,16 @@
+LDA sample code:
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html
+
+Available data
+http://people.csail.mit.edu/jrennie/20Newsgroups/
+
+Available data: reuters 21578 (same as the paper)
+http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
+
+
+========================================================================================
+Not useful:
+The conference that might have expected data in the paper
+http://trec.nist.gov/
+Data website that might have expected data in the paper
+https://catalog.ldc.upenn.edu/LDC93T3A
