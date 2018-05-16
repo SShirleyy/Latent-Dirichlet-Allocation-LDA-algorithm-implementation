@@ -1,9 +1,0 @@
-tiger tiger cat
-cat dog dog
-dog tiger
-apple pear
-pear apple fruit
-fruit apple
-apple apple apple
-computer computer hardware
-malware hardware
